@@ -1,0 +1,2 @@
+# VeriAnalizi
+Veri Analizi Projelerim
